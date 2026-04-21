@@ -1,0 +1,4 @@
+interface:
+  display_name: "心愿词典"
+  short_description: "按固定栏目结构写心理学科普推文并核验原始文献与图表"
+  default_prompt: "Use $xinyuan-cidian to draft a 心愿词典 psychology-science WeChat article with verified original studies, fixed sections, figures, and APA references."
